@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diego Barreiro</h1>
 <h3 align="center">A Computer Science student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=barreeeiroo" alt="barreeeiroo" /> </p>
-
 - 🔭 I’m currently working on [Kodular](https://www.kodular.io)
 
 - 👯 I’m collaborating on [MIT App Inventor](https://github.com/mit-cml/appinventor-sources)
