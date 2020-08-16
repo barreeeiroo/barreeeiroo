@@ -14,19 +14,17 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-118-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-21.5%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21.5%20million%20Lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 9,543 Contributions in 2020
- > 
-> 📦 Used 0 Bytes in GitHub's Storage 
+> 📦 0 Bytes Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 17 Public Repositories 
+> 📜 17 Public repositories
  > 
-> 🔑 0 Owned Private Repository 
+> 🔑 0 Private repository 
  > 
 **I'm a Night 🦉** 
 
@@ -37,7 +35,7 @@
 🌙 Night      420 commits    ███████░░░░░░░░░░░░░░░░░░   28.55%
 
 ```
-📅 **I'm Most Productive on Saturdays** 
+📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday       221 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.02% 
@@ -51,19 +49,19 @@ Sunday       224 commits    ███░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: Europe/Madrid
+⌚︎ Time zone: Europe/Madrid
 
-💬 Languages: 
+💬 Programming Languages: 
 TypeScript               8 hrs 50 mins       ████████████████░░░░░░░░░   64.03% 
 Java                     3 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   24.11% 
 XML                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.07% 
 JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
 Git Config               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.87%
 
-🔥 Editors: 
+🔥 Code Editors: 
 WebStorm                 9 hrs 45 mins       █████████████████░░░░░░░░   70.68% 
 IntelliJ                 4 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   29.17% 
 VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
@@ -75,7 +73,7 @@ proteccionCivil          1 hr 45 mins        ███░░░░░░░░�
 frontend                 1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.77% 
 solve-website            45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.46%
 
-💻 Operating Systems: 
+💻 Operating System: 
 Windows                  13 hrs 47 mins      █████████████████████████   100.0%
 
 ```
