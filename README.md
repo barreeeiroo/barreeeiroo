@@ -12,21 +12,21 @@
 - ⚡ A fun fact is that **I run a platform with over 15M daily active users**
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-104-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-45-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.1%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21.5%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 9,547 Contributions in the year 2020
+> 🏆 9,548 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 17 Public repositories
+> 📜 17 Public Repositories
  > 
-> 🔑 0 Private repository 
+> 🔑 0 Private Repository 
  > 
 **I'm a Night 🦉** 
 
@@ -51,10 +51,10 @@ Sunday       224 commits    ███░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spend My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time zone: Europe/Madrid
+⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
 Java                     11 hrs 37 mins      █████████████████░░░░░░░░   67.73% 
@@ -63,7 +63,7 @@ JSON                     31 mins             ░░░░░░░░░░░�
 Git Config               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.5% 
 Markdown                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.38%
 
-🔥 Code Editors: 
+🔥 Editors: 
 IntelliJ                 11 hrs 54 mins      █████████████████░░░░░░░░   69.4% 
 WebStorm                 5 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   29.89% 
 PyCharm                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59% 
