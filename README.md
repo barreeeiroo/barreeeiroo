@@ -14,12 +14,10 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.7%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 9,592 Contributions in the Year 2020
- > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
 > 💼 Opted to Hire
@@ -84,7 +82,7 @@ Windows                  13 hrs 16 mins      ███████████�
 
 ```text
 PHP                      10 repos            █████░░░░░░░░░░░░░░░░░░░░   20.41% 
-JavaScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.33% 
 Java                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.24% 
 Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.2% 
 CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.16%
