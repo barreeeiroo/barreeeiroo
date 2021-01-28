@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Diego Barreiro 👋</h1>
-<h3 align="center">A Computer Science student and Software Engineer</h3>
+<h3 align="center">A Computer Science student and software engineer</h3>
 
 &nbsp;
 
