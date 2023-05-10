@@ -13,9 +13,7 @@
 
 |   |   |
 | - | - |
-| ![Diego's Github Stats](https://github-readme-stats.vercel.app/api?username=barreeeiroo&show_icons=true&theme=gotham&count_private=true) | ![Diego's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Barreeeiroo&layout=compact&theme=gotham) |
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=barreeeiroo&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]([https://github.com/kittinan/spotify-github-profile](https://open.spotify.com/user/barreeeiroo))
+| ![Diego's Github Stats](https://github-readme-stats.vercel.app/api?username=barreeeiroo&show_icons=true&theme=gotham&count_private=true) | ![Diego's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=barreeeiroo&theme=gotham) |
 
 <p align="center">
 <a href="https://twitter.com/barreeeiroo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="barreeeiroo" height="20" width="20" /></a>
