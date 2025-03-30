@@ -11,7 +11,7 @@
 
 - ✋ I volunteer at [Civil Defense](https://proteccioncivil.sdc.gal).
 
-- 📫 Reach me at **diego@barreiro.xyz** or check my website **[diego.barreiro.dev](https://diego.barreiro.dev)**.
+- 📫 Reach me at **diego@barreiro.dev** or check my website **[diego.barreiro.dev](https://diego.barreiro.dev)**.
 
 |   |   |
 | - | - |
