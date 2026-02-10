@@ -15,7 +15,7 @@
 
 |   |   |
 | - | - |
-| ![Github Stats](https://github-readme-stats-ze6g.vercel.app/api?username=barreeeiroo&show_icons=true&theme=gotham&count_private=true) | ![Language Stats](https://github-readme-stats-ze6g.vercel.app/api/top-langs?username=barreeeiroo&theme=gotham&count_private=true&hide=tex&langs_count=8&layout=compact) |
+| ![Github Stats](https://github-readme-stats-peach-nine-61.vercel.app/api?username=barreeeiroo&show_icons=true&theme=gotham&count_private=true) | ![Language Stats](https://github-readme-stats-peach-nine-61.vercel.app/api/top-langs?username=barreeeiroo&theme=gotham&count_private=true&hide=tex&langs_count=8&layout=compact) |
 
 <p align="center">
 <a href="https://linkedin.com/in/barreeeiroo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="barreeeiroo" height="20" width="20" /></a>
