@@ -9,10 +9,10 @@
 
 ### About Me
 
-Software engineer building distributed systems at Amazon. Co-founded [Kodular](https://www.kodular.io), a no-code Android development platform with 2M+ apps created. Long-time open source contributor to [MIT App Inventor](https://github.com/mit-cml/appinventor-sources) - GSoC 2020 student, GSoC 2023 mentor, and [FOSDEM](https://fosdem.org) speaker in 2023 & 2024. I also build the tech behind [SantYaGo10K](https://www.santyago10k.run), an annual night race through Santiago de Compostela, and the digital platform for [Protección Civil](https://proteccioncivil.sdc.gal) Santiago de Compostela.
+Software engineer building distributed systems at Amazon. Co-founded [Kodular](https://www.kodular.io), a no-code Android development platform with 2M+ apps created. Long-time open source contributor to [MIT App Inventor](https://github.com/mit-cml/appinventor-sources) - GSoC 2020 student, GSoC 2023-2024 mentor, and [FOSDEM](https://fosdem.org) speaker in 2023 & 2024. I also build the tech behind [SantYaGo10K](https://www.santyago10k.run), an annual night race through Santiago de Compostela, and the digital platform for [Protección Civil](https://proteccioncivil.sdc.gal) Santiago de Compostela.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GSoC-Student_'20_·_Mentor_'23-fbbc04?style=flat&logo=google&logoColor=white" alt="Google Summer of Code" />
+  <img src="https://img.shields.io/badge/GSoC-Student_'20_·_Mentor_'23_&_'24-fbbc04?style=flat&logo=google&logoColor=white" alt="Google Summer of Code" />
   <img src="https://img.shields.io/badge/FOSDEM-Speaker_'23_&_'24-7b1fa2?style=flat&logo=fosdem&logoColor=white" alt="FOSDEM Speaker" />
   <img src="https://img.shields.io/badge/Kodular-2M+_Apps-4caf50?style=flat" alt="Kodular 2M+ Apps" />
   <img src="https://img.shields.io/badge/Arctic_Code_Vault-Contributor-2196f3?style=flat&logo=github&logoColor=white" alt="Arctic Code Vault Contributor" />
