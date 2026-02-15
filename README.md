@@ -14,7 +14,7 @@ Software engineer building distributed systems at Amazon. Co-founded [Kodular](h
 <p align="center">
   <img src="https://img.shields.io/badge/GSoC-Student_'20_·_Mentor_'23_&_'24-fbbc04?style=flat&logo=google&logoColor=white" alt="Google Summer of Code" />
   <img src="https://img.shields.io/badge/FOSDEM-Speaker_'23_&_'24-7b1fa2?style=flat&logo=fosdem&logoColor=white" alt="FOSDEM Speaker" />
-  <img src="https://img.shields.io/badge/Kodular-2M+_Apps-4caf50?style=flat" alt="Kodular 2M+ Apps" />
+  <img src="https://img.shields.io/badge/Kodular-2M+_Apps-4caf50?style=flat&logo=kodular&logoColor=white" alt="Kodular 2M+ Apps" />
   <img src="https://img.shields.io/badge/Arctic_Code_Vault-Contributor-2196f3?style=flat&logo=github&logoColor=white" alt="Arctic Code Vault Contributor" />
 </p>
 
