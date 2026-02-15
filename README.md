@@ -46,15 +46,15 @@ Software engineer building distributed systems at Amazon. Co-founded [Kodular](h
 
 | Project | Description | Stars |
 |---------|-------------|-------|
-| [Kodular](https://github.com/Kodular) | No-code Android app platform - Creator, Starter, Docs, and 80+ repos | ~170 combined |
+| [Kodular](https://github.com/Kodular) | No-code Android app platform - Creator, Starter, Docs, and 80+ repos | ![Stars](https://img.shields.io/github/stars/Kodular?style=flat&label=&color=f5d547) |
 | [MIT App Inventor](https://github.com/mit-cml/appinventor-sources) | App Bundles, compiler refactor, storage modernization, security fixes (GSoC 2020, ongoing) | contributor |
-| [Firefly-III-Sankey](https://github.com/barreeeiroo/Firefly-III-Sankey) | Sankey diagram generator for Firefly III | 23 |
-| [Home-Assistant-Electric-Ireland](https://github.com/barreeeiroo/Home-Assistant-Electric-Ireland) | Electric Ireland Insights integration for Home Assistant (in HACS) | 17 |
-| [SantYaGo10K](https://github.com/SantYaGo10K) | Website & digital infra for Santiago de Compostela's annual night race (2020-2026) | org |
-| [PC-Compostela](https://github.com/PC-Compostela) | Digital platform for Civil Defense: ops management (LORO), website, mobile app | org |
-| [MortgageLab-IE](https://github.com/barreeeiroo/MortgageLab-IE) | Irish mortgage comparator & simulator | 4 |
-| [ReplicaT4](https://github.com/barreeeiroo/ReplicaT4) | S3 data replication proxy service (Rust) | 3 |
-| [JSON-Logic-ASP](https://github.com/barreeeiroo/JSON-Logic-ASP) | Evaluate JSON Logic rules in Python using ASP/Clingo | 2 |
+| [SantYaGo10K](https://github.com/SantYaGo10K) | Website & digital infra for Santiago de Compostela's annual night race (2020-2026) | organizer |
+| [PC-Compostela](https://github.com/PC-Compostela) | Digital platform for Civil Defense: ops management (LORO), website, mobile app | volunteer |
+| [Firefly-III-Sankey](https://github.com/barreeeiroo/Firefly-III-Sankey) | Sankey diagram generator for Firefly III | ![Stars](https://img.shields.io/github/stars/barreeeiroo/Firefly-III-Sankey?style=flat&label=&color=f5d547) |
+| [Home-Assistant-Electric-Ireland](https://github.com/barreeeiroo/Home-Assistant-Electric-Ireland) | Electric Ireland Insights integration for Home Assistant (in HACS) | ![Stars](https://img.shields.io/github/stars/barreeeiroo/Home-Assistant-Electric-Ireland?style=flat&label=&color=f5d547) |
+| [MortgageLab-IE](https://github.com/barreeeiroo/MortgageLab-IE) | Irish mortgage comparator & simulator | ![Stars](https://img.shields.io/github/stars/barreeeiroo/MortgageLab-IE?style=flat&label=&color=f5d547) |
+| [ReplicaT4](https://github.com/barreeeiroo/ReplicaT4) | S3 data replication proxy service (Rust) | ![Stars](https://img.shields.io/github/stars/barreeeiroo/ReplicaT4?style=flat&label=&color=f5d547) |
+| [JSON-Logic-ASP](https://github.com/barreeeiroo/JSON-Logic-ASP) | Evaluate JSON Logic rules in Python using ASP/Clingo | ![Stars](https://img.shields.io/github/stars/barreeeiroo/JSON-Logic-ASP?style=flat&label=&color=f5d547) |
 
 ---
 
