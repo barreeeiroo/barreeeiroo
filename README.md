@@ -40,17 +40,17 @@ Software engineer building distributed systems at Amazon. Co-founded [Kodular](h
 ![Android](https://img.shields.io/badge/Android-34a853?style=flat&logo=android&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-bc52ee?style=flat&logo=astro&logoColor=white)
 
-**Cloud & Infra**&ensp;
-![AWS](https://img.shields.io/badge/AWS-232f3e?style=flat&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285f4?style=flat&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat&logo=docker&logoColor=white)
-
 **Databases**&ensp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat&logo=postgresql&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053d6?style=flat&logo=amazondynamodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-dc382d?style=flat&logo=redis&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat&logo=mongodb&logoColor=white)
+
+**Cloud & Infra**&ensp;
+![AWS](https://img.shields.io/badge/AWS-232f3e?style=flat&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285f4?style=flat&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat&logo=docker&logoColor=white)
 
 ---
 
